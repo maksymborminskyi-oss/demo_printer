@@ -1,0 +1,16 @@
+﻿
+# Visual Studio temporary files
+.vs/
+
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.cache
+
+# Visual Studio generated files
+*.vspscc
+*.vssscc
